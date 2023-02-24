@@ -1,7 +1,7 @@
 import "./App.css";
-import memory from "../../assets/images/icon-memory.svg";
-import verbal from "../../assets/images/icon-verbal.svg";
-import visual from "../../assets/images/icon-visual.svg";
+import memory from "./assets/icon-memory.svg";
+import verbal from "./assets/icon-verbal.svg";
+import visual from "./assets/icon-visual.svg";
 
 function App() {
   return (
