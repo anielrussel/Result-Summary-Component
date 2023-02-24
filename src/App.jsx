@@ -1,5 +1,4 @@
 import "./App.css";
-import reaction from "../../assets/images/icon-reaction.svg";
 import memory from "../../assets/images/icon-memory.svg";
 import verbal from "../../assets/images/icon-verbal.svg";
 import visual from "../../assets/images/icon-visual.svg";
@@ -24,7 +23,7 @@ function App() {
         <h1 className="text-dark-gray-blue font-bold pb-5 text-left">Summary</h1>
         <div className="bg-light-red flex justify-between rounded-md p-3 mb-3 cursor-pointer hover:bg-red-200">
           <div className="flex gap-2">
-            <img src={reaction} alt="" />
+            <img src={memory} alt="" />
             <h1 className="text-light-red1 font-semibold">Reaction</h1>
           </div>
           <div>
